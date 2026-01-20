@@ -3,6 +3,6 @@
 def main():
     print("""
     Hello from:
-    - Joel Welling
+    - Joel S. Welling
     - Abby Noyce
     """)
