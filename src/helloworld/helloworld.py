@@ -5,4 +5,7 @@ def main():
     Hello from:
     - Joel Welling
     - Abby Noyce
+    * People in group 1:
+    - CODY LEJANG
+    - Daniel Zhu was here again with a new branch
     """)
