@@ -5,4 +5,5 @@ def main():
     Hello from:
     - Joel Welling
     - Abby Noyce
+    * People in group 1:
     """)
