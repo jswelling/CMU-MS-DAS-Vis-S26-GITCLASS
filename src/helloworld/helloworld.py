@@ -6,4 +6,5 @@ def main():
     - Joel Welling
     - Abby Noyce
     * people in group 2:
+    - Joyce Goh
     """)
