@@ -8,4 +8,5 @@ def main():
     * People in group 1:
     - CODY LEJANG
     - MEHUL POL
+    - Daniel Zhu was here
     """)
