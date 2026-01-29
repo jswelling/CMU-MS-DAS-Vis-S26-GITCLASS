@@ -5,5 +5,5 @@ def main():
     Hello from:
     - Joel Welling
     - Abby Noyce
-    -Trishla Nair
+    - Trishla Nair
     """)
