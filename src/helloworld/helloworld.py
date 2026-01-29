@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+
 def main():
     print("""
     Hello from:
@@ -8,4 +9,5 @@ def main():
     * People in group 1:
     - CODY LEJANG
     - Daniel Zhu was here again with a new branch
+    - Elton Chang
     """)
