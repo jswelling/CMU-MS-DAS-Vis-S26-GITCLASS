@@ -17,6 +17,7 @@ def main():
     - Daniel Zhu was here
     - Shiwei Jiang
     - Disha Kewalramani
+    - Jinhong Lin
     """)
 
  #####    #####   ######   #     #       #        #######        #    ###    #     #   #####   
