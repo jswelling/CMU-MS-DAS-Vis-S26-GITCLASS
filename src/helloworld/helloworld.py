@@ -20,6 +20,7 @@ def main():
     - Shiwei Jiang
     - Disha Kewalramani
     - Jinhong Lin
+    - Gayathri Pillai
     """)
 
  #####    #####   ######   #     #       #        #######        #    ###    #     #   #####   
